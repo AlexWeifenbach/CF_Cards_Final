@@ -1,6 +1,4 @@
 # CF_Cards_Final
-sus
-
 
 This document is your end user guide for the CF_Cards_Final project. In this guide, it will explain how to properly use the program and all of the little functions included. 
 	Once you have the project loaded, you will be met with a screen that has 7 rectangles that say “CARD JOIN” on them and several buttons below them. Starting from left to right is the “Open Pack (1/10)” button. This button will flip back over the cards and to add to the surprise of the random pulls. The next button is the “Flip” button. This button will flip over the cards and reveal the card name, card side, card point value, and card rarity. This button also controls the randomization of each of the cards.
